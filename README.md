@@ -12,5 +12,3 @@ Hardware
 Microcontroller:NUCLEO-F411RE
 BLE Module:X-NUCLEO-BNRG2A1
 
-
-//needs to complete it.
